@@ -1,7 +1,21 @@
-echo "# dictionary" >> dictionarylist.txt
-git init
-git add dictionary.txt
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ltlibrarylady/dictionary.git
-git push -u origin main
+bear
+code
+door
+epic
+fish
+geek
+hawk
+jeep
+kite
+lamb
+mama
+math
+newt
+plop
+rams
+swim
+taco
+wolf
+yoga
+zoom
+
